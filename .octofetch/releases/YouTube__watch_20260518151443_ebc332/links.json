@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3411",
+  "folder": "YouTube__watch_20260518151443_ebc332",
+  "base_name": "10MIN_Glutes_Thighs_Workout_with_Ankle_Weights__TVrcXtiuYI_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/navkng/Cloud-Downloads1/releases/tag/co-releases-v1-3411",
+  "files": [
+    {
+      "name": "10MIN_Glutes_Thighs_Workout_with_Ankle_Weights__TVrcXtiuYI_1080p.mp4",
+      "url": "https://github.com/navkng/Cloud-Downloads1/releases/download/co-releases-v1-3411/10MIN_Glutes_Thighs_Workout_with_Ankle_Weights__TVrcXtiuYI_1080p.mp4",
+      "api_url": "https://api.github.com/repos/navkng/Cloud-Downloads1/releases/assets/423389801",
+      "id": 423389801,
+      "size": 52000563,
+      "download_count": 0
+    }
+  ]
+}
