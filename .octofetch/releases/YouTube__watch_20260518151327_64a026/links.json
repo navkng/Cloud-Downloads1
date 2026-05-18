@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7095",
+  "folder": "YouTube__watch_20260518151327_64a026",
+  "base_name": "Why_You_Should_Write_Everything_in_Scrivener_H8xbVa33PIc_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/navkng/Cloud-Downloads1/releases/tag/co-releases-v1-7095",
+  "files": [
+    {
+      "name": "Why_You_Should_Write_Everything_in_Scrivener_H8xbVa33PIc_1080p.mp4",
+      "url": "https://github.com/navkng/Cloud-Downloads1/releases/download/co-releases-v1-7095/Why_You_Should_Write_Everything_in_Scrivener_H8xbVa33PIc_1080p.mp4",
+      "api_url": "https://api.github.com/repos/navkng/Cloud-Downloads1/releases/assets/423389042",
+      "id": 423389042,
+      "size": 50509772,
+      "download_count": 0
+    }
+  ]
+}
